@@ -1,0 +1,2 @@
+# Merge_multiple_files_into_a_single_file_using_python
+This dataset contains information on global happiness collected annually from 2015 to 2024. The data is sourced from the World Happiness Report and provides a comprehensive view of the factors influencing national well-being. Since there are separate file for each year, I merged multiple files of World happiness into a single file using python
